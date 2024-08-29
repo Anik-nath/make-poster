@@ -1,4 +1,5 @@
 # Poster Builder
+![Screenshot of Webpage](https://i.postimg.cc/HL0pv3sY/screencapture-127-0-0-1-5500-index-html-2024-08-22-15-03-19.png)
 
 ## Description
 
